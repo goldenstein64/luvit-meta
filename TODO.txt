@@ -1,0 +1,5 @@
+- [ ] fs: link linux functions with man7 web links
+- [ ] type `:on` events more precisely?
+- [ ] http.lua
+- [ ] env.lua
+- [ ] Figure out the purpose of `luvit.stream.WriteReq`
